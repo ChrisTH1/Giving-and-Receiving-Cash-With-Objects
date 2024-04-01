@@ -1,0 +1,14 @@
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.AssemblyInfoInputs.cache
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.AssemblyInfo.cs
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.csproj.CoreCompileInputs.cache
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\bin\Debug\net8.0\Giving Cash Objects and Fields.exe
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\bin\Debug\net8.0\Giving Cash Objects and Fields.deps.json
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\bin\Debug\net8.0\Giving Cash Objects and Fields.runtimeconfig.json
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\bin\Debug\net8.0\Giving Cash Objects and Fields.dll
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\bin\Debug\net8.0\Giving Cash Objects and Fields.pdb
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.dll
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\refint\Giving Cash Objects and Fields.dll
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.pdb
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\Giving Cash Objects and Fields.genruntimeconfig.cache
+C:\Users\shutu\source\repos\Giving Cash Objects and Fields\Giving Cash Objects and Fields\obj\Debug\net8.0\ref\Giving Cash Objects and Fields.dll
